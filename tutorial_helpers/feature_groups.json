@@ -1,0 +1,89 @@
+{
+    "GEARBOX": [
+        "generatorspeed - avg",
+        "gear bearing temperature - avg",
+        "gear oil temperature - avg",
+        "rotorspeed - avg",
+        "pitch angle - avg"
+    ],
+    "GENERATOR_BEARING": [
+        "generatorspeed - avg",
+        "generator bearing temperature 2 - avg",
+        "generator slip ring temperature - avg"
+    ],
+    "GENERATOR": [
+        "generatorspeed - avg",
+        "generator temperature phase 1 - avg",
+        "generator temperature phase 2 - avg",
+        "generator temperature phase 3 - avg",
+        "generator slip ring temperature - avg",
+        "generator bearing temperature 2 - avg",
+        "nacelle temperature - avg",
+        "hub control temperature - avg"
+    ],
+    "HYDRAULIC_GROUP": [
+        "generatorspeed - avg",
+        "gear bearing temperature - avg",
+        "wind speed - avg",
+        "generator bearing temperature 2 - avg"
+    ],    
+    "TRANSFORMER": [
+        "hv transformer phase 1 temperature - avg",
+        "hv transformer phase 2 temperature - avg",
+        "hv transformer phase 3 temperature - avg"
+        ],
+    "TURBINE_PERFORMANCE": [
+        "wind speed - avg",
+        "wind speed - stddev",
+        "wind relative direction - avg",
+        "wind direction - avg",
+        "environmental temperature - avg",
+        "active power - avg",
+        "reactive power - avg",
+        "grid frequency - avg",
+        "output voltage phase 1 - avg",
+        "output voltage phase 2 - avg",
+        "output voltage phase 3 - avg",
+        "output current phase 1 - avg",
+        "output current phase 2 - avg",
+        "output current phase 3 - avg",
+        "rotorspeed - avg",
+        "rotorspeed - stddev",
+        "nacelle position - avg"
+    ],
+    "WHOLE_SCADA": [
+        "gear bearing temperature - avg",
+        "generator bearing temperature 2 - avg",
+        "hv transformer phase 1 temperature - avg",
+        "hv transformer phase 2 temperature - avg",
+        "hv transformer phase 3 temperature - avg",
+        "inverter phase 1 temperature - avg",
+        "inverter phase 2 temperature - avg",
+        "inverter phase 3 temperature - avg", 
+        "generatorspeed - avg", 
+        "generator temperature phase 1 - avg",
+        "generator temperature phase 2 - avg",
+        "generator temperature phase 3 - avg",
+        "gear oil temperature - avg",
+        "gear bearing temperature a - avg",
+        "nacelle temperature - avg",
+        "rotorspeed - avg",
+        "wind speed - avg",
+        "wind relative direction - avg",
+        "wind direction - avg",
+        "environmental temperature - avg", 
+        "active power - avg",
+        "reactive power - avg", 
+        "hub control temperature - avg",
+        "generator slip ring temperature - avg",
+        "pitch angle - avg",
+        "grid frequency - avg",
+        "output voltage phase 1 - avg", 
+        "output voltage phase 2 - avg",
+        "output voltage phase 3 - avg", 
+        "output current phase 1 - avg",
+        "output current phase 2 - avg", 
+        "output current phase 3 - avg",
+        "nacelle position - avg"
+    ]
+}
