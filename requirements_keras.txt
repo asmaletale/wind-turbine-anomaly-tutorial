@@ -1,0 +1,14 @@
+# Keras / TensorFlow variant of the tutorial (see TOB_2026_keras.ipynb).
+# On Google Colab, tensorflow AND torch are both preinstalled, so this install
+# is effectively a no-op there. torch is listed because the shared plotting
+# helpers in tutorial_helpers/plotting.py import it at module load.
+tensorflow>=2.15
+torch>=2.0            # only needed so `from tutorial_helpers import *` imports cleanly
+scikit-learn>=1.2
+pandas>=2.0
+numpy>=1.24
+pyarrow>=12.0
+plotly>=5.15
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
